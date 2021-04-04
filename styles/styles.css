@@ -144,6 +144,7 @@ button.boton-aqua:hover {
     color: #FFFFFF;
     margin-left: 12.5rem;
     margin-right: 64.438rem;
+    margin-bottom: 2rem;
 }
 
 .episodios .iframe-spotify {
@@ -359,6 +360,9 @@ button.boton-aqua:hover {
         margin-right: 0;
     }
     /*Estilos @media 641px-1000px Episodios*/
+    .episodios {
+        padding-top: 12.5rem;
+    }
     .episodios .titulo-episodios {
         margin-left: 1rem;
         margin-right: 9.188rem;
@@ -561,7 +565,6 @@ button.boton-aqua:hover {
         clip-path: polygon(0% 2.8%, 100% 0%, 100% 97.2%, 0% 100%);
         padding-top: 0;
         margin-top: 1.5rem;
-        height: 76.688rem;
     }
     .episodios .titulo-episodios {
         font-size: 2.25rem;
